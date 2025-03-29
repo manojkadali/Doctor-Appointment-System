@@ -24,7 +24,7 @@ and the same person cannot book the appointment at the same time.
 ![image](https://github.com/user-attachments/assets/ecb0e3f4-a16a-4ffb-90a8-d12b2e4e2a1f)
 ![image](https://github.com/user-attachments/assets/b424e81a-ca0e-4983-b5a5-0dfc77f093f6)
 
-Project PPT:
+Project PPT: [Presentation1.pdf](https://github.com/manojkadali/Doctor-Appointment-System/files/15210637/Presentation1.pdf)
 
 
 
