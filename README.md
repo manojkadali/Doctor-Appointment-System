@@ -1,4 +1,5 @@
 Doctor appointment system
+This is a mern stack project uses reactJS,redux toolkit,HTML,CSS javascript to make simple and smooth UI, express JS, Node js is used to handle request and responses in backend, Mongo DB is used to store users details permanantly in database, JWT(javascript webtoken) and bycrpt is used to ensure authenication and authorization.
 
 Website Entitles
 
